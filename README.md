@@ -32,3 +32,7 @@ The system analyzes textual content from news articles and predicts authenticity
 
 ->Pandas & NumPy
 
+🔗 Dataset Link
+
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
